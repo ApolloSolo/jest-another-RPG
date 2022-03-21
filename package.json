@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ApolloSolo/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.1"
   }
 }
